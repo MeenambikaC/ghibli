@@ -1,0 +1,18 @@
+You are required to develop a software program that will simulate a swimming competition. The simulation contains a swimming pool that has 5 swim lanes. It also has a pavilion. There are swimmers, spectators, judges and supporting staff. Swimmers should be distinguished as male and female – males wear blue and females wear red.  Every person in the simulation has a unique name.  When the judge blows the whistle, the competition is started and the players start swimming. Once they reach the other end of the pool, they have finished the game. They need to touch a touch pad at this finishing end. Each touch pad then notifies the finishing time to a score board. The score board compares these finishing times, and identifies the order of finishing. This information is then displayed in the score board.
+Identify objects, their states, and behavior in this scenario.
+Advanced task – identify relationships among these objects.
+ Submit your answer in a word doc
+
+You are required to develop a software program that will simulate a newspaper. The newspaper consists of a set of news articles. Each news article contains one or more paragraphs of text. Some news articles may contain one or more images. Each news article has a headline (for example, "Learning OOP is banned in Sri Lanka"), a byline (for example, "By Prince of Wales, Weekly News Academic Reporter"), a tagline (for example, "OOP considered a health hazard!") and a date-stamp (for example, "03 May 2010").
+Each line of text used in the newspaper has the following set of attributes associated with it: font type, font size, font color, background color, bold type face, italic type face, underlined type face.
+Each headline, byline, tagline or a date-stamp is considered a single line of text. A paragraph of text may contain one or more lines of text.
+Identify the “Objects” from the above scenario description.
+Decide on objects that can form the basis of an "abstract" object.
+Decide on the “characteristics” of those objects that would represent their internal state.
+ Submit your answer in a word doc
+
+Given below is a simplified version of the swimming competition scenario:
+You are required to develop a software program that will simulate a swimming competition. In the simulation, there are swimmers, spectators, judges and supporting staff. They all have a name, and an id number. They all can check the scoreboard. In addition, swimmers can swim, and judges can blow the whistle.  Number of objects to be created for swimmers, spectators, etc should be able to be given in as command-line arguments.
+
+Write a simple program to capture this information.
+Copy all your Java code into one text file and submit.
